@@ -23,25 +23,23 @@ const config = {
     "TypeScript",
     "REST API",
     "Web Development",
-    "data bases "
+    "Databases",
   ],
 
   author: "ANUJ RAJPUT",
-
   email: "asingh879785@gmail.com",
 
-  site: "http://localhost:3000",
+  site: "https://anuj-rajput-portfolio.vercel.app",
 
   githubUsername: "anujkumarrajput7",
-
-  githubRepo: "portfolio",
+  githubRepo: "anuj-rajput-portfolio",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
 
   social: {
-    twitter: " https://twitter.com/Anujsin22422645/",
+    twitter: "https://twitter.com/Anujsin22422645/",
     linkedin: "https://www.linkedin.com/in/anuj-singh-721658289/",
     instagram: "https://www.instagram.com/anujsinghhh__/",
     facebook: "",
