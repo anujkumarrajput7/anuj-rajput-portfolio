@@ -1,3 +1,4 @@
+![ANUJ RAJPUT Portfolio](public/readme-home.png)
 <div align="center">
 
   <h1 align="center">🚀 ANUJ RAJPUT | Full-Stack Developer Portfolio</h1>
