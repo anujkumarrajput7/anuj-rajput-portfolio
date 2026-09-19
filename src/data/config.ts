@@ -41,7 +41,7 @@ const config = {
   social: {
     twitter: "https://twitter.com/Anujsin22422645/",
     linkedin: "https://www.linkedin.com/in/anuj-singh-721658289/",
-    instagram: "https://www.instagram.com/anujsinghhh__/",
+ instagram: "https://www.instagram.com/anujsinghhh___/",
     facebook: "",
     github: "https://github.com/anujkumarrajput7",
   },
