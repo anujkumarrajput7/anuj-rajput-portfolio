@@ -1,16 +1,16 @@
 const config = {
-  title: "ANUJ RAJPUT | Full-Stack Developer",
+ title: "ANUJ KUMAR | Full-Stack Developer",
 
   description: {
     long:
-      "ANUJ RAJPUT is a Full-Stack Developer focused on building modern, responsive and scalable web applications. He enjoys working across frontend interfaces, backend services, APIs and database-driven applications.",
+      "ANUJ KUMART is a Full-Stack Developer focused on building modern, responsive and scalable web applications. He enjoys working across frontend interfaces, backend services, APIs and database-driven applications.",
 
     short:
-      "ANUJ RAJPUT — Full-Stack Developer building modern, scalable web applications.",
+      "ANUJ KUMAR — Full-Stack Developer building modern, scalable web applications.",
   },
 
   keywords: [
-    "ANUJ RAJPUT",
+    "ANUJ KUMAR",
     "Full-Stack Developer",
     "Software Engineer",
     "Web Developer",
@@ -40,7 +40,7 @@ const config = {
 
   social: {
     twitter: "https://twitter.com/Anujsin22422645/",
-    linkedin: "https://www.linkedin.com/in/anuj-singh-721658289/",
+    linkedin: "https://www.linkedin.com/in/anuj-Kumar-721658289/",
  instagram: "https://www.instagram.com/anujsinghhh___/",
     facebook: "",
     github: "https://github.com/anujkumarrajput7",
