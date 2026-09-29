@@ -26,7 +26,7 @@ const config = {
     "Databases",
   ],
 
-  author: "ANUJ RAJPUT",
+  author: "ANUJ KUMAR",
   email: "asingh879785@gmail.com",
 
   site: "https://anuj-rajput-portfolio.vercel.app",

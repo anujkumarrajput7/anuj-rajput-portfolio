@@ -314,7 +314,7 @@ function Page() {
               <div className="flex justify-center items-center lg:w-full lg:aspect-square bg-zinc-800 rounded-xl lg:mb-5">
                 <Image
                   className="w-full h-full object-cover rounded-xl"
-                  alt="ANUJ RAJPUT"
+                  alt="ANUJ KUMAR"
                   src="/assets/me.jpg"
                   width={500}
                   height={500}
@@ -324,7 +324,7 @@ function Page() {
 
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
                 <p className="text-center text-xl">
-                  ANUJ RAJPUT
+                  ANUJ KUMAR
                 </p>
 
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
@@ -375,7 +375,7 @@ function Page() {
             </h1>
 
             <p className="mb-10 text-roboto">
-              Hello! I&apos;m ANUJ RAJPUT, a Full-Stack Developer focused on
+              Hello! I&apos;m ANUJ KUMAR, a Full-Stack Developer focused on
               building modern and user-friendly web applications. I enjoy
               working across frontend interfaces, backend services, APIs and
               database-driven applications.

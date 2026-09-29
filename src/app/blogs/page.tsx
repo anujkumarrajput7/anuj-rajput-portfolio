@@ -17,9 +17,9 @@ import { CalendarDays, User } from "lucide-react";
 import RevealAnimation from "@/components/reveal-animations";
 
 export const metadata = {
-  title: "Blogs | ANUJ RAJPUT",
+  title: "Blogs | ANUJ Kumar",
   description:
-    "Technical articles, development notes, project insights, and lessons learned by ANUJ RAJPUT.",
+    "Technical articles, development notes, project insights, and lessons learned by ANUJ KUMAR.",
 };
 
 export default function BlogPage() {
@@ -96,7 +96,7 @@ export default function BlogPage() {
                   <CardFooter className="mt-auto">
                     <div className="flex items-center gap-2 text-sm text-zinc-500">
                       <User className="w-4 h-4" />
-                      {post.metadata.author || "ANUJ RAJPUT"}
+                      {post.metadata.author || "ANUJ KUMAR"}
                     </div>
                   </CardFooter>
                 </Card>

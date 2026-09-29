@@ -1,4 +1,4 @@
-![ANUJ RAJPUT Portfolio](public/readme-home.png)
+![ANUJ KUMAR Portfolio](public/readme-home.png)
 
 <p align="center">
   <a href="https://anuj-rajput-portfolio.vercel.app/">
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-# 🚀 ANUJ RAJPUT
+# 🚀 ANUJ KUMAR
 
 ### Full-Stack Developer
 
